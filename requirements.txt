@@ -1,0 +1,8 @@
+tensorflow
+keras
+matplotlib
+opencv-python
+numpy
+
+DATASET:
+https://www.kaggle.com/datasets/salader/dogs-vs-cats
